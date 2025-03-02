@@ -1,6 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 Makefile linguist-generated=true
-* linguist-detectable=true
-*.cpp linguist-detectable=true
-*.h linguist-detectable=true
