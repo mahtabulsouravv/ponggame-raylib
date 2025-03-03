@@ -1,7 +1,5 @@
 # 🏓 Pong Game using Raylib (C++)  
 
-A **classic Pong game** built using **Raylib and C++**!  
-
 Since I've learned **C++** and its **Object-Oriented Programming (OOP)** concepts, I decided to apply them in game development. This project showcases **Encapsulation**, **Single Inheritance**, and **Divide and Conquer Algorithm**, along with key game development concepts like **game loops, collision detection, and AI mechanics**.  
 
 ## ✨ Features  
