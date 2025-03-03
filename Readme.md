@@ -17,8 +17,7 @@ Since I've learned **C++** and its **Object-Oriented Programming (OOP)** concept
 ◽ **Raylib**: Lightweight and easy-to-use game development library.  
 
 ## 📸 Preview  
-
-🚧 *Coming soon...* 🚧  
+![Pong Game](https://github.com/mahtabulsouravv/ponggame-raylib/blob/main/Preview.PNG)  
 
 ## ⬇️ Download & Play  
 
